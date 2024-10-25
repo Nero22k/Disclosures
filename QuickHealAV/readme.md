@@ -1,4 +1,4 @@
-## Broken Access Controls (CVE-2024-XXXX)
+## Broken Access Controls (CVE-2024-48293)
 Interesting logic bug that allowed to bypass the privilege check for the Antivirus dashboard, potentially enabling unauthorized tampering with Antivirus settings.
 
 ### Proof Of Concept
